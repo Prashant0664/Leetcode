@@ -1,3 +1,5 @@
-.vscode
-
 *.exe
+/.vscode
+/vscode
+/output
+*.gitignore
